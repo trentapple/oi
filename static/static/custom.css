@@ -1,0 +1,27 @@
+/*::-webkit-scrollbar {
+    display: none;
+}*/
+
+@media (display-mode: standalone) {
+	body {
+		background-color: #00000000;
+	}
+}
+
+/*html {
+	overflow-y: none !important;
+	height: 100%;
+	overscroll-behavior-y: contain;
+	scroll-behavior: smooth;
+}
+body {
+	contain: strict;
+	overflow-y: scroll !important;
+	height: 100%;
+	-webkit-overflow-scrolling: touch;
+	clip: auto;
+	overscroll-behavior-y: contain;
+	overscroll-behavior: contain;
+
+}
+*/
